@@ -12,3 +12,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.page {
+  width: 50%;
+  height: 100%;
+
+  justify-content: center;
+  align-items: center;
+}
+
+.posts {
+  justify-content: center;
+}
+
+.post {
+  height: 100px;
+
+  background: #f3d3d3;
+  border: 1px solid black;
+  margin: 10px;
+}
